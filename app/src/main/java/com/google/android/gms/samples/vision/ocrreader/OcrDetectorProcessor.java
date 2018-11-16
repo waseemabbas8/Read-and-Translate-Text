@@ -15,6 +15,8 @@
  */
 package com.google.android.gms.samples.vision.ocrreader;
 
+import android.content.Context;
+import android.content.Intent;
 import android.util.Log;
 import android.util.SparseArray;
 
@@ -30,9 +32,11 @@ import com.google.android.gms.vision.text.TextBlock;
 public class OcrDetectorProcessor implements Detector.Processor<TextBlock>{
 
     private GraphicOverlay<OcrGraphic> graphicOverlay;
+    Context context;
 
-    OcrDetectorProcessor(GraphicOverlay<OcrGraphic> ocrGraphicOverlay) {
+    OcrDetectorProcessor(GraphicOverlay<OcrGraphic> ocrGraphicOverlay,Context context) {
         graphicOverlay = ocrGraphicOverlay;
+        this.context=context;
     }
 
     @Override
@@ -44,6 +48,7 @@ public class OcrDetectorProcessor implements Detector.Processor<TextBlock>{
     public void receiveDetections(Detector.Detections<TextBlock> detections) {
         graphicOverlay.clear();
         SparseArray<TextBlock> items = detections.getDetectedItems();
+        String text=items.valueAt(0).getValue();
         for (int i = 0; i < items.size(); ++i) {
             TextBlock item = items.valueAt(i);
             if (item != null && item.getValue() != null) {
@@ -52,7 +57,9 @@ public class OcrDetectorProcessor implements Detector.Processor<TextBlock>{
                 graphicOverlay.add(graphic);
             }
         }
+        Intent intent=new Intent(context, TranslateActivity.class);
+        intent.putExtra("text",text);
+        context.startActivity(intent);
     }
-
     // TODO:  Once this implements Detector.Processor<TextBlock>, implement the abstract methods.
 }
