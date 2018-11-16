@@ -17,6 +17,17 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    packagingOptions {
+        exclude 'META-INF/INDEX.LIST'
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/license.txt'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/notice.txt'
+        exclude 'META-INF/ASL2.0'
+    }
 }
 
 dependencies {
@@ -25,5 +36,4 @@ dependencies {
     implementation 'com.android.support:design:27.1.1'
     implementation 'com.google.android.gms:play-services-vision:16.2.0'
     implementation 'com.google.cloud:google-cloud-translate:1.51.0'
-    implementation 'com.android.support.constraint:constraint-layout:1.1.3'
 }

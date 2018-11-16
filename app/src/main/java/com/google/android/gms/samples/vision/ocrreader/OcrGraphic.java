@@ -19,9 +19,17 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.RectF;
+// Imports the Google Cloud client library
+import com.google.android.gms.vision.text.Text;
+import com.google.cloud.translate.Translate;
+import com.google.cloud.translate.Translate.TranslateOption;
+import com.google.cloud.translate.TranslateOptions;
+import com.google.cloud.translate.Translation;
 
 import com.google.android.gms.samples.vision.ocrreader.ui.camera.GraphicOverlay;
 import com.google.android.gms.vision.text.TextBlock;
+
+import java.util.List;
 
 /**
  * Graphic instance for rendering TextBlock position, size, and ID within an associated graphic
@@ -97,7 +105,12 @@ public class OcrGraphic extends GraphicOverlay.Graphic {
         rect = translateRect(rect);
         canvas.drawRect(rect, rectPaint);
 
-        // Render the text at the bottom of the box.
-        canvas.drawText(text.getValue(), rect.left, rect.bottom, textPaint);
+        // Break the text into multiple lines and draw each one according to its own bounding box.
+        List<? extends Text> textComponents = text.getComponents();
+        for(Text currentText : textComponents) {
+            float left = translateX(currentText.getBoundingBox().left);
+            float bottom = translateY(currentText.getBoundingBox().bottom);
+            canvas.drawText(currentText.getValue(), left, bottom, textPaint);
+        }
     }
 }

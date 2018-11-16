@@ -24,6 +24,8 @@ import com.google.android.gms.samples.vision.ocrreader.ui.camera.GraphicOverlay;
 import com.google.android.gms.vision.Detector;
 import com.google.android.gms.vision.text.TextBlock;
 
+import java.util.List;
+
 /**
  * A very simple Processor which gets detected TextBlocks and adds them to the overlay
  * as OcrGraphics.
@@ -48,18 +50,16 @@ public class OcrDetectorProcessor implements Detector.Processor<TextBlock>{
     public void receiveDetections(Detector.Detections<TextBlock> detections) {
         graphicOverlay.clear();
         SparseArray<TextBlock> items = detections.getDetectedItems();
-        String text=items.valueAt(0).getValue();
+        String text="";
         for (int i = 0; i < items.size(); ++i) {
             TextBlock item = items.valueAt(i);
             if (item != null && item.getValue() != null) {
                 Log.d("Processor", "Text detected! " + item.getValue());
                 OcrGraphic graphic = new OcrGraphic(graphicOverlay, item);
                 graphicOverlay.add(graphic);
+                text += " "+item.getValue();
             }
         }
-        Intent intent=new Intent(context, TranslateActivity.class);
-        intent.putExtra("text",text);
-        context.startActivity(intent);
     }
     // TODO:  Once this implements Detector.Processor<TextBlock>, implement the abstract methods.
 }
