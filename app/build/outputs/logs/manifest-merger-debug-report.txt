@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\cf89f00c49c27877e8ad4e3d0583354c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-vision-16.2.0.aar\9c6871baabc5d26823e4744a92596dbd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-16.2.0.aar\65877475061a6efad3b67cb4e55fd446\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\9a99afc64ab83c22c7657419bbf63336\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\ac4b8b6097fb0159fd645312ec528520\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\688d9fba662687ceefc6bc2d67c8d582\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\ee73f5673e0ece6580edcafca1e9c9d5\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\4853b98dfe74cd884245cc28f5bf58fb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ae29a54e19b65f7620fbd4cee19adcab\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\e43c4ee4b689ff71cd629147e415f7af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c70e79d5fcc367e55d726d5a803fd41e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\91867d58454f0c4907f697f79a3db950\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d93adafd3e5a939f5085aec05da9549d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0bf8c3d54831238d9fb49d9d3b5327a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\419626be23f7b13864ebf4da969fa3ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ed7346ca18a57716ca9ec23b8aca3ac3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e8d076a5463d234bf03fe35e23728be8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\40bb03e3ec4635fd9444f21a6995a528\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\0b396bb5898d3e0595cd183322a60666\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\01223024c195e8f3381898ea0a31d961\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c479622e405d98c8fb8e37fbf7ab3648\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\51171a1898a6e7495ea16db1a23a6e27\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ca80fff642c67f3965a412f186e31442\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a47e2e7139afc78e68bd20de3a720c0c\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:3:5-62
+		INJECTED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:10:5-32:19
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-vision-16.2.0.aar\9c6871baabc5d26823e4744a92596dbd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-vision-16.2.0.aar\9c6871baabc5d26823e4744a92596dbd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-16.2.0.aar\65877475061a6efad3b67cb4e55fd446\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-16.2.0.aar\65877475061a6efad3b67cb4e55fd446\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\9a99afc64ab83c22c7657419bbf63336\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\9a99afc64ab83c22c7657419bbf63336\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\688d9fba662687ceefc6bc2d67c8d582\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\688d9fba662687ceefc6bc2d67c8d582\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\ee73f5673e0ece6580edcafca1e9c9d5\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\ee73f5673e0ece6580edcafca1e9c9d5\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\4853b98dfe74cd884245cc28f5bf58fb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\4853b98dfe74cd884245cc28f5bf58fb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ae29a54e19b65f7620fbd4cee19adcab\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ae29a54e19b65f7620fbd4cee19adcab\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:16:9-37
+	android:label
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:15:9-37
+	android:hardwareAccelerated
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:12:9-42
+	android:icon
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:14:9-38
+	android:allowBackup
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:17:9-47
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:18:9-20:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ae29a54e19b65f7620fbd4cee19adcab\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ae29a54e19b65f7620fbd4cee19adcab\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:19:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:21:9-23:35
+	android:value
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:23:13-32
+	android:name
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:22:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:label
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:26:13-38
+	android:name
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:25:19-100
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\cf89f00c49c27877e8ad4e3d0583354c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\cf89f00c49c27877e8ad4e3d0583354c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-vision-16.2.0.aar\9c6871baabc5d26823e4744a92596dbd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-vision-16.2.0.aar\9c6871baabc5d26823e4744a92596dbd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-16.2.0.aar\65877475061a6efad3b67cb4e55fd446\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-16.2.0.aar\65877475061a6efad3b67cb4e55fd446\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\9a99afc64ab83c22c7657419bbf63336\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\9a99afc64ab83c22c7657419bbf63336\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\ac4b8b6097fb0159fd645312ec528520\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\ac4b8b6097fb0159fd645312ec528520\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\688d9fba662687ceefc6bc2d67c8d582\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\688d9fba662687ceefc6bc2d67c8d582\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\ee73f5673e0ece6580edcafca1e9c9d5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\ee73f5673e0ece6580edcafca1e9c9d5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\4853b98dfe74cd884245cc28f5bf58fb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\4853b98dfe74cd884245cc28f5bf58fb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ae29a54e19b65f7620fbd4cee19adcab\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ae29a54e19b65f7620fbd4cee19adcab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\e43c4ee4b689ff71cd629147e415f7af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\e43c4ee4b689ff71cd629147e415f7af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c70e79d5fcc367e55d726d5a803fd41e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c70e79d5fcc367e55d726d5a803fd41e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\91867d58454f0c4907f697f79a3db950\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\91867d58454f0c4907f697f79a3db950\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d93adafd3e5a939f5085aec05da9549d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d93adafd3e5a939f5085aec05da9549d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0bf8c3d54831238d9fb49d9d3b5327a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0bf8c3d54831238d9fb49d9d3b5327a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\419626be23f7b13864ebf4da969fa3ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\419626be23f7b13864ebf4da969fa3ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ed7346ca18a57716ca9ec23b8aca3ac3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ed7346ca18a57716ca9ec23b8aca3ac3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e8d076a5463d234bf03fe35e23728be8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e8d076a5463d234bf03fe35e23728be8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\40bb03e3ec4635fd9444f21a6995a528\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\40bb03e3ec4635fd9444f21a6995a528\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\0b396bb5898d3e0595cd183322a60666\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\0b396bb5898d3e0595cd183322a60666\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\01223024c195e8f3381898ea0a31d961\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\01223024c195e8f3381898ea0a31d961\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c479622e405d98c8fb8e37fbf7ab3648\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c479622e405d98c8fb8e37fbf7ab3648\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\51171a1898a6e7495ea16db1a23a6e27\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\51171a1898a6e7495ea16db1a23a6e27\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ca80fff642c67f3965a412f186e31442\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ca80fff642c67f3965a412f186e31442\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a47e2e7139afc78e68bd20de3a720c0c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a47e2e7139afc78e68bd20de3a720c0c\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Waseem\Downloads\android-vision-master\visionSamples\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\ee73f5673e0ece6580edcafca1e9c9d5\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\ee73f5673e0ece6580edcafca1e9c9d5\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\ee73f5673e0ece6580edcafca1e9c9d5\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Waseem\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\ee73f5673e0ece6580edcafca1e9c9d5\AndroidManifest.xml:24:13-79
