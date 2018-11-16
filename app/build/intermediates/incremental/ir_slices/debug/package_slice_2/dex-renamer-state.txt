@@ -1,4 +1,4 @@
-#Fri Nov 16 15:05:50 PKT 2018
+#Fri Nov 16 16:23:15 PKT 2018
 base.0=C\:\\Users\\Waseem\\Downloads\\android-vision-master\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
 path.0=classes.dex
 renamed.0=classes.dex
