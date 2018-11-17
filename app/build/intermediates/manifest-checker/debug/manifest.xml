@@ -32,7 +32,7 @@
             android:value="ocr" />
 
         <activity
-            android:name="com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity"
+            android:name="com.google.android.gms.samples.vision.ocrreader.activities.OcrCaptureActivity"
             android:label="Read Text" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -40,7 +40,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.google.android.gms.samples.vision.ocrreader.TranslateActivity" />
+        <activity android:name="com.google.android.gms.samples.vision.ocrreader.activities.TranslateActivity" />
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"

@@ -22,9 +22,8 @@
         <meta-data
             android:name="com.google.android.gms.vision.DEPENDENCIES"
             android:value="ocr" />
-
         <activity
-            android:name=".OcrCaptureActivity"
+            android:name=".activities.OcrCaptureActivity"
             android:label="Read Text">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -32,7 +31,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".TranslateActivity"></activity>
+        <activity android:name=".activities.TranslateActivity"></activity>
     </application>
 
 </manifest>
